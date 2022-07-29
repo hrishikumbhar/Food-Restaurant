@@ -20,5 +20,6 @@
 ### This project took around 2 hours to complete.
 
 ### Screenshot
+[Link](https://food-restaurant-home-new.netlify.app/)
 
 ![](./screenshot/Proj2.png)
