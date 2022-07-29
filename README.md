@@ -22,4 +22,4 @@
 ### Screenshot
 [Link](https://food-restaurant-home-new.netlify.app/)
 
-![](./screenshot/Proj2.png)
+![](./Screenshot/Proj2.png)
