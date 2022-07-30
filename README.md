@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 2 
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 2 
 
 ### What I Learned from this Project?
 
@@ -19,7 +18,8 @@
 
 ### This project took around 2 hours to complete.
 
-### Screenshot
-[Link](https://food-restaurant-home-new.netlify.app/)
+### Project Link : [Link](https://food-restaurant-home-new.netlify.app/)
+
+### Screenshot :
 
 ![](./Screenshot/Proj2.png)
