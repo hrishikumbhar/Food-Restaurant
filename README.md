@@ -1,4 +1,4 @@
-# Project 2 
+# Project 2 :- Food Restaurant
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
